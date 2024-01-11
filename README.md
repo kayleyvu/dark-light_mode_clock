@@ -3,7 +3,7 @@ Digital clock with dark/light mode toggle switch
 
 ![image](https://github.com/kayleyvu/dark-light_mode_clock/assets/136641247/5307d3f4-ea3d-4d65-b46d-9f1f5e234872)
 
-## Languages 
+## Tech stack 
 * HTML: website framework linked with external CSS and JS files
 * CSS: website styling with classes for dark mode
 * JavaScript: dark/light mode toggle function, show time function
