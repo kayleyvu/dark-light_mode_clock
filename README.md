@@ -5,7 +5,7 @@ Digital clock with dark/light mode toggle switch
 
 ## Languages 
 * HTML: website framework
-* CSS: website styling, 3D flip effect for headshot, custom cursor, etc.
+* CSS: website styling with classes for dark mode
 * JavaScript: dark/light mode toggle function, show time function
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/kayley-vu/)
